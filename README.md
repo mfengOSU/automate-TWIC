@@ -8,3 +8,4 @@ To run the code, type
 ```
 python twic.py
 ```
+in your terminal.
