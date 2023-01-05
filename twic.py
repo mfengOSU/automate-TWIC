@@ -17,5 +17,6 @@ for num in range(START_NUM, END_NUM + 1):
     else:
         print(f"Error with {url}")
         print(f"Response code: {response.status_code}")
+        break
     time.sleep(5)
     
