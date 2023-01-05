@@ -9,3 +9,13 @@ To run the code, type
 python twic.py
 ```
 in your terminal.
+
+## Requirements
+- python 3+
+
+The requests library was used. To install it, run
+```
+python -m pip install requests
+```
+in your terminal.
+
